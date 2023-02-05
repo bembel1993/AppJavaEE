@@ -22,3 +22,5 @@ ____
 #### Start page
 ![Start page of Application](https://github.com/bembel1993/imgForDiplom/blob/main/1_dataStore.png)
 ![Start page of Application](https://github.com/bembel1993/imgForDiplom/blob/main/2_dataStore.png)
+![Start page of Application](https://github.com/bembel1993/imgForDiplom/blob/main/jee1.png)
+![Start page of Application](https://github.com/bembel1993/imgForDiplom/blob/main/jee2.png)
